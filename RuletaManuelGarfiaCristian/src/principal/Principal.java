@@ -1,8 +1,13 @@
 package principal;
 
+import java.util.Scanner;
+
 public class Principal {
 
 	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+		String aux; 
+		
 		/*Menú
 		 * 1 inicias sesión
 		 * 2 dices cuanto dinero quieres meter
