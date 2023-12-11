@@ -20,5 +20,4 @@ public class Datos {
 	Casilla c7 = new Casilla (1, 7 , 1, false);
 	Casilla c8 = new Casilla (2, 8 , 1, true);
 
-
 }
